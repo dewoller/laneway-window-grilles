@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 474.5 715.5" width="474.5" height="715.5" role="img" aria-label="Elevation of the left-hand grille from the room side, with rod, fixing and insert positions dimensioned">
+<defs>
+  <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+    <path d="M0,0 L10,5 L0,10 z" fill="context-stroke"/>
+  </marker>
+  <marker id="arrowAccent" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+    <path d="M0,0 L10,5 L0,10 z" fill="#c8102e"/>
+  </marker>
+  <marker id="arrowInk" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+    <path d="M0,0 L10,5 L0,10 z" fill="#222"/>
+  </marker>
+</defs>
+<rect width="100%" height="100%" fill="#fff"/>
+<text x="130" y="16" font-family="Helvetica, Arial, sans-serif" font-size="13" text-anchor="start" fill="#222" font-weight="bold">Left-hand grille, viewed from the room</text>
+<text x="130" y="31" font-family="Helvetica, Arial, sans-serif" font-size="10" text-anchor="start" fill="#555" font-weight="normal">wall at left, mullion at right. Right-hand grille is the mirror image at 1178 high</text>
+<rect x="130" y="44" width="232.5" height="6" fill="#e6cfa3" stroke="#8a6a3a" stroke-width="1"/>
+<rect x="130" y="623.5" width="232.5" height="6" fill="#e6cfa3" stroke="#8a6a3a" stroke-width="1"/>
+<rect x="130" y="50" width="6" height="573.5" fill="#e6cfa3" stroke="#8a6a3a" stroke-width="1"/>
+<rect x="353" y="50" width="9.5" height="573.5" fill="#e6cfa3" stroke="#8a6a3a" stroke-width="1"/>
+<rect x="136" y="481.5" width="217" height="6" fill="#9aa0a6" stroke="#3c4146" stroke-width="0.8"/>
+<rect x="130" y="481.5" width="6" height="6" fill="none" stroke="#3c4146" stroke-width="0.6" stroke-dasharray="2 2"/>
+<rect x="353" y="481.5" width="9.5" height="6" fill="none" stroke="#3c4146" stroke-width="0.6" stroke-dasharray="2 2"/>
+<rect x="136" y="334" width="217" height="6" fill="#9aa0a6" stroke="#3c4146" stroke-width="0.8"/>
+<rect x="130" y="334" width="6" height="6" fill="none" stroke="#3c4146" stroke-width="0.6" stroke-dasharray="2 2"/>
+<rect x="353" y="334" width="9.5" height="6" fill="none" stroke="#3c4146" stroke-width="0.6" stroke-dasharray="2 2"/>
+<rect x="136" y="186.5" width="217" height="6" fill="#9aa0a6" stroke="#3c4146" stroke-width="0.8"/>
+<rect x="130" y="186.5" width="6" height="6" fill="none" stroke="#3c4146" stroke-width="0.6" stroke-dasharray="2 2"/>
+<rect x="353" y="186.5" width="9.5" height="6" fill="none" stroke="#3c4146" stroke-width="0.6" stroke-dasharray="2 2"/>
+<rect x="204.5" y="50" width="6" height="573.5" fill="#9aa0a6" stroke="#3c4146" stroke-width="0.8"/>
+<rect x="204.5" y="44" width="6" height="6" fill="none" stroke="#3c4146" stroke-width="0.6" stroke-dasharray="2 2"/>
+<rect x="204.5" y="623.5" width="6" height="6" fill="none" stroke="#3c4146" stroke-width="0.6" stroke-dasharray="2 2"/>
+<rect x="282" y="50" width="6" height="573.5" fill="#9aa0a6" stroke="#3c4146" stroke-width="0.8"/>
+<rect x="282" y="44" width="6" height="6" fill="none" stroke="#3c4146" stroke-width="0.6" stroke-dasharray="2 2"/>
+<rect x="282" y="623.5" width="6" height="6" fill="none" stroke="#3c4146" stroke-width="0.6" stroke-dasharray="2 2"/>
+<circle cx="207.5" cy="484.5" r="2.6" fill="#c8102e" stroke="#fff" stroke-width="0.8"/>
+<circle cx="207.5" cy="337" r="2.6" fill="#c8102e" stroke="#fff" stroke-width="0.8"/>
+<circle cx="207.5" cy="189.5" r="2.6" fill="#c8102e" stroke="#fff" stroke-width="0.8"/>
+<circle cx="285" cy="484.5" r="2.6" fill="#c8102e" stroke="#fff" stroke-width="0.8"/>
+<circle cx="285" cy="337" r="2.6" fill="#c8102e" stroke="#fff" stroke-width="0.8"/>
+<circle cx="285" cy="189.5" r="2.6" fill="#c8102e" stroke="#fff" stroke-width="0.8"/>
+<circle cx="133" cy="557" r="2.4" fill="#fff" stroke="#222" stroke-width="0.8"/>
+<circle cx="133" cy="411" r="2.4" fill="#fff" stroke="#222" stroke-width="0.8"/>
+<circle cx="133" cy="263.5" r="2.4" fill="#fff" stroke="#222" stroke-width="0.8"/>
+<circle cx="133" cy="116.5" r="2.4" fill="#fff" stroke="#222" stroke-width="0.8"/>
+<circle cx="168.5" cy="47" r="2.4" fill="#fff" stroke="#222" stroke-width="0.8"/>
+<circle cx="168.5" cy="626.5" r="2.4" fill="#fff" stroke="#222" stroke-width="0.8"/>
+<circle cx="246" cy="47" r="2.4" fill="#fff" stroke="#222" stroke-width="0.8"/>
+<circle cx="246" cy="626.5" r="2.4" fill="#fff" stroke="#222" stroke-width="0.8"/>
+<circle cx="324" cy="47" r="2.4" fill="#fff" stroke="#222" stroke-width="0.8"/>
+<circle cx="324" cy="626.5" r="2.4" fill="#fff" stroke="#222" stroke-width="0.8"/>
+<polygon points="353.5,314 353.5,321 357,317.5" fill="#c8102e"/>
+<text x="366.5" y="320.5" font-family="Helvetica, Arial, sans-serif" font-size="8.5" text-anchor="start" fill="#c8102e" font-weight="normal">624</text>
+<polygon points="353.5,296.5 353.5,303.5 357,300" fill="#c8102e"/>
+<text x="366.5" y="303" font-family="Helvetica, Arial, sans-serif" font-size="8.5" text-anchor="start" fill="#c8102e" font-weight="normal">659</text>
+<polygon points="353.5,86 353.5,93 357,89.5" fill="#c8102e"/>
+<text x="366.5" y="92.5" font-family="Helvetica, Arial, sans-serif" font-size="8.5" text-anchor="start" fill="#c8102e" font-weight="normal">1080</text>
+<polygon points="353.5,51 353.5,58 357,54.5" fill="#c8102e"/>
+<text x="366.5" y="57.5" font-family="Helvetica, Arial, sans-serif" font-size="8.5" text-anchor="start" fill="#c8102e" font-weight="normal">1150</text>
+<text x="246.25" y="40" font-family="Helvetica, Arial, sans-serif" font-size="9" text-anchor="middle" fill="#222" font-weight="normal">top rail 42 × 12, full width</text>
+<text x="246.25" y="640.5" font-family="Helvetica, Arial, sans-serif" font-size="9" text-anchor="middle" fill="#222" font-weight="normal">bottom rail 42 × 12</text>
+<text x="128" y="316.75" font-family="Helvetica, Arial, sans-serif" font-size="9" text-anchor="middle" fill="#222" font-weight="normal" transform="rotate(-90 128 316.75)">wall-side stile 42 × 12</text>
+<text x="347" y="401.75" font-family="Helvetica, Arial, sans-serif" font-size="9" text-anchor="middle" fill="#222" font-weight="normal" transform="rotate(-90 347 401.75)">free stile 42 × 19</text>
+<text x="366.5" y="103.5" font-family="Helvetica, Arial, sans-serif" font-size="8.5" text-anchor="start" fill="#c8102e" font-weight="normal">M5 inserts, Z 30</text>
+<text x="294" y="169.5" font-family="Helvetica, Arial, sans-serif" font-size="8.5" text-anchor="start" fill="#c8102e" font-weight="normal">roll pin at every crossing</text>
+<text x="294" y="179.5" font-family="Helvetica, Arial, sans-serif" font-size="8.5" text-anchor="start" fill="#555" font-weight="normal">rods dashed where inside timber</text>
+<line x1="130" y1="629.5" x2="130" y2="659.5" stroke="#555" stroke-width="0.6"/><line x1="207.5" y1="629.5" x2="207.5" y2="659.5" stroke="#555" stroke-width="0.6"/><line x1="130" y1="655.5" x2="207.5" y2="655.5" stroke="#555" stroke-width="0.7"/><line x1="127" y1="658.5" x2="133" y2="652.5" stroke="#555" stroke-width="0.9"/><line x1="204.5" y1="658.5" x2="210.5" y2="652.5" stroke="#555" stroke-width="0.9"/><text x="168.75" y="652.5" font-family="Helvetica, Arial, sans-serif" font-size="10" text-anchor="middle" fill="#555" font-weight="normal">155</text>
+<line x1="285" y1="629.5" x2="285" y2="677.5" stroke="#555" stroke-width="0.6"/><line x1="130" y1="673.5" x2="285" y2="673.5" stroke="#555" stroke-width="0.7"/><line x1="127" y1="676.5" x2="133" y2="670.5" stroke="#555" stroke-width="0.9"/><line x1="282" y1="676.5" x2="288" y2="670.5" stroke="#555" stroke-width="0.9"/><text x="207.5" y="670.5" font-family="Helvetica, Arial, sans-serif" font-size="10" text-anchor="middle" fill="#555" font-weight="normal">310</text>
+<line x1="362.5" y1="629.5" x2="362.5" y2="695.5" stroke="#555" stroke-width="0.6"/><line x1="130" y1="691.5" x2="362.5" y2="691.5" stroke="#555" stroke-width="0.7"/><line x1="127" y1="694.5" x2="133" y2="688.5" stroke="#555" stroke-width="0.9"/><line x1="359.5" y1="694.5" x2="365.5" y2="688.5" stroke="#555" stroke-width="0.9"/><text x="246.25" y="688.5" font-family="Helvetica, Arial, sans-serif" font-size="10" text-anchor="middle" fill="#555" font-weight="normal">465</text>
+<text x="130" y="705.5" font-family="Helvetica, Arial, sans-serif" font-size="8.5" text-anchor="start" fill="#555" font-weight="normal">rod centres from the wall-side outer face</text>
+<line x1="362.5" y1="629.5" x2="400.5" y2="629.5" stroke="#555" stroke-width="0.6"/><line x1="362.5" y1="484.5" x2="400.5" y2="484.5" stroke="#555" stroke-width="0.6"/><line x1="396.5" y1="629.5" x2="396.5" y2="484.5" stroke="#555" stroke-width="0.7"/><line x1="393.5" y1="632.5" x2="399.5" y2="626.5" stroke="#555" stroke-width="0.9"/><line x1="393.5" y1="487.5" x2="399.5" y2="481.5" stroke="#555" stroke-width="0.9"/><text x="393.5" y="557" font-family="Helvetica, Arial, sans-serif" font-size="10" text-anchor="middle" fill="#555" font-weight="normal" transform="rotate(-90 393.5 557)">290</text>
+<line x1="362.5" y1="337" x2="418.5" y2="337" stroke="#555" stroke-width="0.6"/><line x1="414.5" y1="629.5" x2="414.5" y2="337" stroke="#555" stroke-width="0.7"/><line x1="411.5" y1="632.5" x2="417.5" y2="626.5" stroke="#555" stroke-width="0.9"/><line x1="411.5" y1="340" x2="417.5" y2="334" stroke="#555" stroke-width="0.9"/><text x="411.5" y="483.25" font-family="Helvetica, Arial, sans-serif" font-size="10" text-anchor="middle" fill="#555" font-weight="normal" transform="rotate(-90 411.5 483.25)">585</text>
+<line x1="362.5" y1="189.5" x2="436.5" y2="189.5" stroke="#555" stroke-width="0.6"/><line x1="432.5" y1="629.5" x2="432.5" y2="189.5" stroke="#555" stroke-width="0.7"/><line x1="429.5" y1="632.5" x2="435.5" y2="626.5" stroke="#555" stroke-width="0.9"/><line x1="429.5" y1="192.5" x2="435.5" y2="186.5" stroke="#555" stroke-width="0.9"/><text x="429.5" y="409.5" font-family="Helvetica, Arial, sans-serif" font-size="10" text-anchor="middle" fill="#555" font-weight="normal" transform="rotate(-90 429.5 409.5)">880</text>
+<line x1="362.5" y1="44" x2="454.5" y2="44" stroke="#555" stroke-width="0.6"/><line x1="450.5" y1="629.5" x2="450.5" y2="44" stroke="#555" stroke-width="0.7"/><line x1="447.5" y1="632.5" x2="453.5" y2="626.5" stroke="#555" stroke-width="0.9"/><line x1="447.5" y1="47" x2="453.5" y2="41" stroke="#555" stroke-width="0.9"/><text x="447.5" y="336.75" font-family="Helvetica, Arial, sans-serif" font-size="10" text-anchor="middle" fill="#555" font-weight="normal" transform="rotate(-90 447.5 336.75)">1171</text>
+<line x1="130" y1="629.5" x2="100" y2="629.5" stroke="#555" stroke-width="0.6"/><line x1="130" y1="557" x2="100" y2="557" stroke="#555" stroke-width="0.6"/><line x1="104" y1="629.5" x2="104" y2="557" stroke="#555" stroke-width="0.7"/><line x1="101" y1="632.5" x2="107" y2="626.5" stroke="#555" stroke-width="0.9"/><line x1="101" y1="560" x2="107" y2="554" stroke="#555" stroke-width="0.9"/><text x="101" y="593.25" font-family="Helvetica, Arial, sans-serif" font-size="10" text-anchor="middle" fill="#555" font-weight="normal" transform="rotate(-90 101 593.25)">145</text>
+<line x1="130" y1="411" x2="82" y2="411" stroke="#555" stroke-width="0.6"/><line x1="86" y1="629.5" x2="86" y2="411" stroke="#555" stroke-width="0.7"/><line x1="83" y1="632.5" x2="89" y2="626.5" stroke="#555" stroke-width="0.9"/><line x1="83" y1="414" x2="89" y2="408" stroke="#555" stroke-width="0.9"/><text x="83" y="520.25" font-family="Helvetica, Arial, sans-serif" font-size="10" text-anchor="middle" fill="#555" font-weight="normal" transform="rotate(-90 83 520.25)">437</text>
+<line x1="130" y1="263.5" x2="64" y2="263.5" stroke="#555" stroke-width="0.6"/><line x1="68" y1="629.5" x2="68" y2="263.5" stroke="#555" stroke-width="0.7"/><line x1="65" y1="632.5" x2="71" y2="626.5" stroke="#555" stroke-width="0.9"/><line x1="65" y1="266.5" x2="71" y2="260.5" stroke="#555" stroke-width="0.9"/><text x="65" y="446.5" font-family="Helvetica, Arial, sans-serif" font-size="10" text-anchor="middle" fill="#555" font-weight="normal" transform="rotate(-90 65 446.5)">732</text>
+<line x1="130" y1="116.5" x2="46" y2="116.5" stroke="#555" stroke-width="0.6"/><line x1="50" y1="629.5" x2="50" y2="116.5" stroke="#555" stroke-width="0.7"/><line x1="47" y1="632.5" x2="53" y2="626.5" stroke="#555" stroke-width="0.9"/><line x1="47" y1="119.5" x2="53" y2="113.5" stroke="#555" stroke-width="0.9"/><text x="47" y="373" font-family="Helvetica, Arial, sans-serif" font-size="10" text-anchor="middle" fill="#555" font-weight="normal" transform="rotate(-90 47 373)">1026</text>
+<text x="46" y="42" font-family="Helvetica, Arial, sans-serif" font-size="8.5" text-anchor="start" fill="#555" font-weight="normal">fixing holes, 5 mm csk</text>
+<text x="46" y="53" font-family="Helvetica, Arial, sans-serif" font-size="8.5" text-anchor="start" fill="#555" font-weight="normal">rails at 77, 232, 388</text>
+</svg>

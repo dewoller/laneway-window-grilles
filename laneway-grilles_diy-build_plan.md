@@ -36,7 +36,7 @@ lattice into the reveal, and the opener load on the free stile is braced every
 | Crossings | Drilled through both rods and roll-pinned, in the dry-fitted frame | Tack welds: need a welder or a shop, heat near timber, grinding. Half-lapped steel: 24 notches of grinding and filing. Tie wire or epoxy alone: unfixed crossings let a 1170 span of 12 mm rod bend by hand. |
 | Frame | 42 × 12 DAR hardwood edge-on, free stile 42 × 19 | 42 × 42 square: chosen first so rods could be housed in deep holes, but the frame carries no load that needs it, and deep holes need a drill press. Steel frame: that is the RFQ, still fine if a shop bites. |
 | Rod ends | Through every member, cut flush, captive because the grid is pinned | Blind holes in the free stile: need 25 mm of timber, so need the 42 square. |
-| Corners | Rails full width, stiles between, glued, screwed, steel angle at the free-stile corners | End laps: need thick stock. |
+| Corners | Rails full width, stiles between, glued and screwed; the screws work in shear | End laps: need thick stock. Angle brackets: at the top corner a bracket on the stile's inner face sits exactly where the opener foot plate bolts on at 1150. |
 | Spot welder | Not used | Fuses 3 to 5 mm crossings, not 12 mm. |
 | Dense mesh (5 mm at 50 pitch) | Not used | Stronger and cheaper deterrent, but looks like a coop on the room side and the opener chain needs a cut-out. |
 | Fixing | Ordinary screws into the timber reveal, plus a room-side stop bead | Security screws and plugs: not needed, see section 3, Fixing. |
@@ -61,6 +61,11 @@ wall-side outer face toward the mullion. Y from the bottom outer face. Every
 member is 42 deep in Z and stands edge-on, so its thickness is what intrudes
 into the opening.
 
+![Elevation of the left-hand grille from the room side](diagrams/elevation.svg)
+
+*Left-hand grille from the room. Verticals are the rear layer so they draw over
+the horizontals. Red dots are the roll pins, red triangles the opener inserts.*
+
 ### Frame members, per grille
 
 | Member | Section (thick × deep) | Length | Notes |
@@ -84,6 +89,12 @@ Centres 12 apart, so the rods touch at every crossing. The RFQ had 6.5 and 18.5
 because its rods were welded to the face of a 5 mm bar; here they pass through
 holes and need timber either side. Stiles only carry horizontals and rails only
 carry verticals, so no member has both layers and the holes never overlap.
+
+![Plan section through the grille at Y 585](diagrams/plan-section.svg)
+
+*Plan section at the middle horizontal, glass at the top. The two rod layers sit
+inside the 42 depth, the sash is 27 in front, and the stop bead on the room side
+is what a push from the glass loads.*
 
 ### Rod holes, 12.5 mm, all through
 
@@ -120,12 +131,27 @@ deterrent grid that does not matter.
 Alternative at any crossing: M4 button-head bolt and nyloc, head toward the
 glass, nut on the room side. Use this if the pin holes end up oversize.
 
+![Crossing detail with the roll pin through both rods](diagrams/crossing-detail.svg)
+
+*One crossing. Left, looking along the horizontal rod: the pin runs in Z through
+both rods, 24 long, flush. Right, from the room: all that shows is a 4 mm pin
+end.*
+
 ### Corners
 
 Rails run the full 465 and the stiles butt against their inside faces. Glue, two
-8 g × 40 screws through the rail into the stile end grain at each corner. At the
-two free-stile corners add a 40 × 40 steel angle bracket on the room-side face,
-where it is hidden. The three fixed sides are held by the reveal anyway.
+8 g × 40 screws through the rail into the stile end grain at each corner. The
+opener pushes the free stile toward the room, so those screws work in shear, not
+withdrawal, and the rail is itself screwed to the reveal head 77 mm from that
+end. No angle brackets: at the top corner a bracket on the stile's inner face
+would sit exactly where the opener foot plate bolts on at 1150. The three fixed
+sides are held by the reveal anyway.
+
+![Free-stile top corner from the room](diagrams/corner-detail.svg)
+
+*Free-stile top corner. The vertical rod runs through the rail and ends flush
+against the reveal head. The top insert is 9 mm below the rail, which is the
+clearance the opener foot plate has to fit in.*
 
 ### Fixing
 
@@ -170,14 +196,13 @@ Prices are rough, Melbourne, late 2026.
 | M5 threaded inserts, screw-in brass, 10 long | 8, buy 10 | 8 mm pilot, check the insert's spec | $15 |
 | 10 g × 75 countersunk timber screws | 20 | Through 12 of frame, 60 into the reveal | $8 |
 | 8 g × 40 screws for the corners | 16 | Two per corner | $5 |
-| 40 × 40 steel angle brackets | 4 | Free-stile corners | $8 |
 | Stop bead, 19 × 19 hardwood | 2 × (1171 + 2 × 465) ≈ 4.3 m | Room side, three sides per grille | $20 |
 | Polyurethane or epoxy glue | 1 | Corners | $15 |
 | Cold gal or etch primer, matte black enamel | 1 each | Rods | $30 |
 | Oil or lacquer for the timber | 1 | | $20 |
 | Rebar tie wire, cutting oil | | | $10 |
 
-Total roughly $230 to $260.
+Total roughly $220 to $250.
 
 ## 5. Tools
 
@@ -222,6 +247,11 @@ mirror image: swap which end is the wall side.
 
 ### Dry fit
 
+![Exploded view of the dry-fit order](diagrams/dry-fit_exploded.svg)
+
+*Why the frame can close around a grid that is already pinned: each member only
+engages its own rods. Rails first, then stiles.*
+
 7. Lay the frame flat, window-side face down. Push the verticals through the
    bottom rail, then the top rail. Push the horizontals through the wall-side
    stile, then slide the free stile on over their other ends. Tape the
@@ -247,7 +277,7 @@ mirror image: swap which end is the wall side.
 
 14. Reassemble around the finished grid, same order as the dry fit. Glue the
     corners, clamp square, two 8 g × 40 screws through each rail end into the
-    stile. Angle brackets at the free-stile corners, room side.
+    stile.
 15. Fit the M5 inserts.
 
 ### Install
@@ -275,6 +305,8 @@ mirror image: swap which end is the wall side.
 - [ ] How much room-side depth does the reveal have before the architrave? The
       frame is 42 deep plus a 19 bead, where the RFQ needed 25 to 50.
 - [ ] Opener chain run with a 42 deep stile and the rod plane 8 mm back.
+- [ ] The top insert at 1150 is 9 mm below the rail underside here, against 16
+      in the RFQ, whose rail was 5 mm in-plane. Check the foot plate fits.
 - [ ] Is 42 × 12 Tasmanian oak in stock, or is it 42 × 19 throughout.
 - [ ] Rod finish: black or clear.
 - [ ] Fix "plaster reveal" in the RFQ docx and PDF.
