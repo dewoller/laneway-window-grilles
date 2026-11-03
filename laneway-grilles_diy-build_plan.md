@@ -43,7 +43,7 @@ lattice into the reveal, and the opener load on the free stile is braced every
 | Corners | Rails full width, stiles between, glued and screwed; the screws work in shear | End laps: need thick stock. Angle brackets: at the top corner a bracket on the stile's inner face sits exactly where the opener foot plate bolts on at 1150. |
 | Spot welder | Not used | Fuses 3 to 5 mm crossings, not 12 mm. |
 | Dense mesh (5 mm at 50 pitch) | Not used | Stronger and cheaper deterrent, but looks like a coop on the room side and the opener chain needs a cut-out. |
-| Fixing | Ordinary screws into the timber reveal, plus a room-side stop bead | Security screws and plugs: not needed, see section 3, Fixing. |
+| Fixing | Ordinary screws sideways into the timber reveal, countersunk below the surface, filled and painted over | Room-side stop bead: was in the first version to hold the grille if the screws came out, but filled screws give nothing to aim a screwdriver at, and a bead's own screws can be reached through the 155 × 295 openings. Security or one-way screws: the filled heads cannot be found, and one-way screws have to be drilled out to remove the grille. |
 
 Why 12 mm. Push at the centre of a 295 mm segment to permanently bend it,
 crossings fixed:
@@ -97,8 +97,8 @@ carry verticals, so no member has both layers and the holes never overlap.
 ![Plan section through the grille at Y 585](diagrams/plan-section.svg)
 
 *Plan section at the middle horizontal, glass at the top. The two rod layers sit
-inside the 42 depth, the sash is 27 in front, and the stop bead on the room side
-is what a push from the glass loads.*
+inside the 42 depth, the sash is 27 in front, and a push from the glass loads
+the fixing screws sideways, in shear.*
 
 ### Rod holes, 12.5 mm, all through
 
@@ -161,7 +161,8 @@ clearance the opener foot plate has to fit in.*
 ### Fixing
 
 Same positions as the RFQ. Each is a 5 mm hole through the 12 thickness,
-countersunk on the opening-side face.
+countersunk on the opening-side face deep enough that the head sits 2 mm below
+the surface, which leaves room for filler.
 
 | Member | Positions |
 |--------|-----------|
@@ -172,10 +173,11 @@ countersunk on the opening-side face.
 
 All clear of the rod holes.
 
-Ordinary 10 g × 75 screws. Security heads are not needed: the stop bead on the
-room side is what holds the grille. With every screw removed the frame can only
-move 27 mm toward the glass, then stops against the sash, and it cannot tilt out
-of a reveal it fills. The screws stop it rattling and locate it.
+Ordinary 10 g × 75 screws. They run sideways into the reveal, so a push from the
+glass side loads all ten in shear, not withdrawal. The heads are filled and
+painted over, so there is nothing to see or unscrew. A determined thief kicks
+the grille in either way; the job is to make the window not worth the effort.
+To remove the grille later, dig out the filler and unscrew.
 
 ### Opener inserts
 
@@ -201,13 +203,13 @@ Prices are rough, Melbourne, late 2026.
 | M5 threaded inserts, screw-in brass, 10 long | 8, buy 10 | 8 mm pilot, check the insert's spec | $15 |
 | 10 g × 75 countersunk timber screws | 20 | Through 12 of frame, 60 into the reveal | $8 |
 | 8 g × 40 screws for the corners | 16 | Two per corner | $5 |
-| Stop bead, 19 × 19 hardwood | 2 × (1171 + 2 × 465) ≈ 4.3 m | Room side, three sides per grille, painted with the frame | $20 |
+| Two-part wood filler | 1 | Over the fixing screw heads; sands flat and does not shrink back | $15 |
 | Polyurethane or epoxy glue | 1 | Corners | $15 |
 | Cold gal or etch primer, matte black enamel | 1 each | Rods | $30 |
-| Timber primer, white enamel matching the reveal | 1 each | Frame and stop bead. Use the reveal's leftover enamel if there is any | $30 |
+| Timber primer, white enamel matching the reveal | 1 each | Frame. Use the reveal's leftover enamel if there is any | $30 |
 | Rebar tie wire, cutting oil | | | $10 |
 
-Total roughly $230 to $260.
+Total roughly $225 to $255.
 
 ## 5. Tools
 
@@ -276,7 +278,7 @@ engages its own rods. Rails first, then stiles.*
 
 12. Slide the frame members off. Degrease the grid, prime, matte black. Paint
     into the pin holes and over the cut ends, which is where it would rust.
-13. Prime and paint the timber and the stop bead white enamel, masking the glue
+13. Prime and paint the timber white enamel, masking the glue
     faces at the corners. Keep paint out of the rod holes or the rods will not
     slide back in; touch up around the rods after glue up.
 
@@ -291,10 +293,10 @@ engages its own rods. Rails first, then stiles.*
 
 16. Offer the grille into the reveal, window-side face 27 mm in front of the
     sash. Shim to plumb and square.
-17. Screw through the ten fixing holes into the reveal with the 10 g × 75s.
-18. Screw the 19 × 19 stop bead to the reveal on the room side of the grille,
-    on the three fixed sides. A push from the glass side now loads the bead and
-    puts the screws in shear, not withdrawal.
+17. Screw through the ten fixing holes into the reveal with the 10 g × 75s,
+    heads 2 mm below the surface.
+18. Fill over each head with two-part filler, slightly proud. Sand flush once
+    cured, spot-prime, and touch up with the white enamel.
 19. Fit the opener to the inserts, sash bracket, wiring. Outside this plan.
 
 ## 7. Done when
@@ -302,7 +304,7 @@ engages its own rods. Rails first, then stiles.*
 - Both grilles in, diagonals within 2, no rattle at any crossing.
 - A hard shove on the middle of any rod from the window side moves nothing you
   can see.
-- Stop bead on three sides, opener opens and closes the sash through the grid.
+- No screw head visible, opener opens and closes the sash through the grid.
 
 ## 8. Open questions
 
@@ -310,7 +312,7 @@ engages its own rods. Rails first, then stiles.*
       timber. "Two small welded grilles, flat bar and 12 mm rod, mild steel, you
       pick the finish, I have a drawing." If one bites, this plan is the backup.
 - [ ] How much room-side depth does the reveal have before the architrave? The
-      frame is 42 deep plus a 19 bead, where the RFQ needed 25 to 50.
+      frame is 42 deep, where the RFQ needed 25 to 50.
 - [ ] Opener chain run with a 42 deep stile and the rod plane 8 mm back.
 - [ ] The top insert at 1150 is 9 mm below the rail underside here, against 16
       in the RFQ, whose rail was 5 mm in-plane. Check the foot plate fits.

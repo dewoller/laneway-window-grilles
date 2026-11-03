@@ -190,14 +190,11 @@ function planSection() {
   b.push(text(X(XV[0]) - 9, Z(ZV + 4), 'vertical rod, cut', { size: 8.5, anchor: 'end' }));
   b.push(text(X(XV[0]) + 10, Z(ZV + 4), 'roll pin 4 × 24', { size: 8.5, fill: ACCENT }));
 
-  // stop bead and its screw
-  b.push(rect(X(0), Z(D), 19, 19, tim));
-  b.push(line(X(19), Z(D + 9.5), X(-28), Z(D + 9.5), { stroke: INK, sw: 1.6 }));
-  b.push(text(X(24), Z(D + 14), 'stop bead 19 × 19, screwed to the reveal on the room side', { size: 8.5 }));
-  // fixing screw through the wall stile
-  b.push(line(X(T), Z(D / 2), X(-55), Z(D / 2), { stroke: INK, sw: 1.6 }));
-  b.push(tri(X(T), Z(D / 2), 3, 'l', INK));
-  b.push(text(X(24), Z(D + 30), 'fixing screw 10 g × 75 through the wall-side stile into the reveal, head on the opening side', { size: 8.5 }));
+  // fixing screw through the wall stile, head sunk 2 below the opening-side face and filled
+  b.push(line(X(T - 2), Z(D / 2), X(-55), Z(D / 2), { stroke: INK, sw: 1.6 }));
+  b.push(tri(X(T - 2), Z(D / 2), 3, 'l', INK));
+  b.push(text(X(24), Z(D + 14), 'fixing screw 10 g × 75 through the wall-side stile into the reveal,', { size: 8.5 }));
+  b.push(text(X(24), Z(D + 26), 'head sunk 2 below the opening-side face, filled and painted over', { size: 8.5 }));
   // insert, dashed because it is at another Y
   b.push(rect(X(W - TF), Z(30 - 4), 10, 8, { stroke: ACCENT, sw: 0.8, dash: '2 1.5' }));
   b.push(text(X(W), Z(D + 44), 'M5 insert into the free stile, Z 30, at Y 624, 659, 1080, 1150', { size: 8.5, anchor: 'end', fill: ACCENT }));
@@ -205,7 +202,7 @@ function planSection() {
   // push arrow and what resists it
   b.push(line(X(120), Z(-24), X(120), Z(5), { stroke: ACCENT, sw: 2, marker: 'arrowAccent' }));
   b.push(text(X(126), Z(-14), 'push from the glass side goes through the pinned grid', { size: 8.5, fill: ACCENT, weight: 'bold' }));
-  b.push(text(X(126), Z(-4), 'into stiles and rails, then the bead in shear. Screws only locate.', { size: 8.5, fill: DIM }));
+  b.push(text(X(126), Z(-4), 'into stiles and rails, then the fixing screws sideways, in shear.', { size: 8.5, fill: DIM }));
 
   b.push(text(X(230), Z(118), 'room', { size: 10, anchor: 'middle', fill: DIM, italic: true }));
 
@@ -218,7 +215,7 @@ function planSection() {
   b.push(dimH(X(W - TF), X(W), Z(-8), '19', { ext1: Z(0), ext2: Z(0) }));
   b.push(dimH(X(0), X(W), Z(104), '465', { ext1: Z(D), ext2: Z(D) }));
 
-  return svg(ox + 540, oz + 148, 'Plan section through the grille showing the two rod layers inside the 42 mm member depth, the 27 mm gap to the sash, the fixing screw and the room-side stop bead', b.join('\n'));
+  return svg(ox + 540, oz + 148, 'Plan section through the grille showing the two rod layers inside the 42 mm member depth, the 27 mm gap to the sash, and the filled fixing screw', b.join('\n'));
 }
 
 // ---------------------------------------------------------- crossing detail
