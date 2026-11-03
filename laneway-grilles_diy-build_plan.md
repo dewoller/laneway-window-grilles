@@ -37,7 +37,7 @@ lattice into the reveal, and the opener load on the free stile is braced every
 | Bars | 12 mm round mild steel | Timber bars: a 25 mm hardwood dowel kicks or saws out in seconds. Thinner steel: strength goes with diameter cubed, see table below. |
 | Crossings | Drilled through both rods and roll-pinned, in the dry-fitted frame | Tack welds: need a welder or a shop, heat near timber, grinding. Half-lapped steel: 24 notches of grinding and filing. Tie wire or epoxy alone: unfixed crossings let a 1170 span of 12 mm rod bend by hand. |
 | Frame section | 42 × 12 DAR edge-on, free stile 42 × 19 | 42 × 42 square: chosen first so rods could be housed in deep holes, but the frame carries no load that needs it, and deep holes need a drill press. Steel frame: that is the RFQ, still fine if a shop bites. |
-| Frame timber | Clear DAR pine for the rails and wall-side stile; hardwood for the free stile. All painted, so the species never shows | Hardwood throughout, oiled: was the first choice, but the reveal is white-painted pine and a bare hardwood frame inside it is a third material that draws the eye to the grille. Pine free stile: it carries the opener's M5 inserts, and inserts in pine loosen under the opener's repeated push. Finger-jointed primed pine: the joints fall where they fall, and a 12.5 hole or a corner screw through one can split it. |
+| Frame timber | Tasmanian oak throughout, painted white to match the reveal | Hardwood oiled: the reveal is white-painted pine, and a bare hardwood frame inside it is a third material that draws the eye to the grille. Pine, painted: matches the reveal's timber and saves about $20, but holds the corner screws and the opener's M5 inserts worse and tears out at the rod holes. Pine rails with a hardwood free stile: two timbers to buy for a $10 saving. |
 | Finish | Rods matte black, frame white enamel to match the reveal | White rods: from inside they are seen against daylight, and white catches glare by day and room light at night, so they stand out against the view. Black reads as thin dark lines the eye skips, like a fly screen. Clear-lacquered steel: shows fingerprints and rust spots at the cut ends and pin holes. |
 | Rod ends | Through every member, cut flush, captive because the grid is pinned | Blind holes in the free stile: need 25 mm of timber, so need the 42 square. |
 | Corners | Rails full width, stiles between, glued and screwed; the screws work in shear | End laps: need thick stock. Angle brackets: at the top corner a bracket on the stile's inner face sits exactly where the opener foot plate bolts on at 1150. |
@@ -144,9 +144,8 @@ end.*
 ### Corners
 
 Rails run the full 465 and the stiles butt against their inside faces. Glue, two
-8 g × 50 screws through the rail into the stile end grain at each corner, in
-3 mm pilot holes so the 12 mm pine stile does not split. 50 rather than 40
-because pine end grain holds poorly. The
+8 g × 40 screws through the rail into the stile end grain at each corner, in
+3 mm pilot holes so the 12 mm stile does not split. The
 opener pushes the free stile toward the room, so those screws work in shear, not
 withdrawal, and the rail is itself screwed to the reveal head 77 mm from that
 end. No angle brackets: at the top corner a bracket on the stile's inner face
@@ -182,8 +181,7 @@ of a reveal it fills. The screws stop it rattling and locate it.
 
 Free stile, inner face (facing the opening), four M5 threaded inserts at
 Y = 624, 659, 1080, 1150, Z = 30. Same on both grilles. Inserts are 10 mm long
-in the 19 thickness. This is why the free stile is hardwood when the rest of
-the frame is pine. The 585 horizontal is at Z = 14 and 39 mm below the nearest
+in the 19 thickness. The 585 horizontal is at Z = 14 and 39 mm below the nearest
 insert, so there is no clash.
 
 Check the opener's chain run before committing: the RFQ geometry assumed a 50 × 5
@@ -196,20 +194,20 @@ Prices are rough, Melbourne, late 2026.
 
 | Item | Qty | Note | Approx |
 |------|-----|------|--------|
-| 42 × 12 DAR clear pine, not finger-jointed | 2 × 1.8 m | One wall stile and two rails per length | $15 |
-| 42 × 19 DAR Tasmanian oak | 1 × 2.4 m | Both free stiles, for the opener inserts | $20 |
+| 42 × 12 DAR Tasmanian oak | 2 × 1.8 m | One wall stile and two rails per length | $25 |
+| 42 × 19 DAR Tasmanian oak | 1 × 2.4 m | Both free stiles | $20 |
 | 12 mm round mild steel | 7.4 m | 3 × 3 m hardware lengths, or 6 m + 1.5 m from a merchant | $40 to $70 |
 | Roll pins 4 × 24 | 12, buy 20 | Spring steel | $10 |
 | M5 threaded inserts, screw-in brass, 10 long | 8, buy 10 | 8 mm pilot, check the insert's spec | $15 |
 | 10 g × 75 countersunk timber screws | 20 | Through 12 of frame, 60 into the reveal | $8 |
-| 8 g × 50 screws for the corners | 16 | Two per corner | $5 |
-| Stop bead, 19 × 19 DAR pine | 2 × (1171 + 2 × 465) ≈ 4.3 m | Room side, three sides per grille, painted with the frame | $12 |
+| 8 g × 40 screws for the corners | 16 | Two per corner | $5 |
+| Stop bead, 19 × 19 hardwood | 2 × (1171 + 2 × 465) ≈ 4.3 m | Room side, three sides per grille, painted with the frame | $20 |
 | Polyurethane or epoxy glue | 1 | Corners | $15 |
 | Cold gal or etch primer, matte black enamel | 1 each | Rods | $30 |
 | Timber primer, white enamel matching the reveal | 1 each | Frame and stop bead. Use the reveal's leftover enamel if there is any | $30 |
 | Rebar tie wire, cutting oil | | | $10 |
 
-Total roughly $210 to $240.
+Total roughly $230 to $260.
 
 ## 5. Tools
 
@@ -243,8 +241,7 @@ mirror image: swap which end is the wall side.
    hole at Y = 290 is 278 from the stile's bottom end.
 4. Gauge a line along each member at its hole Z (14 on stiles, 26 on rails),
    punch the centres, and drill the 12.5 holes through with the guide clamped
-   on. Drill from the outside face so any breakout is on the inside, with a
-   scrap block clamped behind: pine tears out where hardwood would not.
+   on. Drill from the outside face so any breakout is on the inside.
 5. Drill the fixing holes, 5 mm through, countersunk on the opening side. Drill
    the insert pilots in the free stile.
 
@@ -286,7 +283,7 @@ engages its own rods. Rails first, then stiles.*
 ### Glue up
 
 14. Reassemble around the finished grid, same order as the dry fit. Glue the
-    corners, clamp square, two 8 g × 50 screws through each rail end into the
+    corners, clamp square, two 8 g × 40 screws through each rail end into the
     stile, in the pilot holes.
 15. Fit the M5 inserts.
 
@@ -317,7 +314,6 @@ engages its own rods. Rails first, then stiles.*
 - [ ] Opener chain run with a 42 deep stile and the rod plane 8 mm back.
 - [ ] The top insert at 1150 is 9 mm below the rail underside here, against 16
       in the RFQ, whose rail was 5 mm in-plane. Check the foot plate fits.
-- [ ] Is 42 × 12 clear (not finger-jointed) pine in stock, or is it 42 × 19
-      throughout.
+- [ ] Is 42 × 12 Tasmanian oak in stock, or is it 42 × 19 throughout.
 - [x] Rod finish: black or clear. Black, frame white (3 Nov, see section 2).
 - [ ] Fix "plaster reveal" in the RFQ docx and PDF.
