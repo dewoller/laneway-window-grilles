@@ -9,7 +9,7 @@ Planning documents for two laneway window grilles (left- and right-hand, mirror 
 | File | What it is |
 |------|-----------|
 | `laneway-grilles_rfq.docx` / `.pdf` | Request for quotation sent to fabricators: welded grille, Option A 304/316 stainless or Option B powder-coated mild steel |
-| `laneway-grilles_diy-build_plan.md` | Self-build alternative (thin hardwood frame, 12 mm rod, roll-pinned crossings), written after no fabricator replied. Its section 8 holds the open questions, including corrections still owed to the RFQ |
+| `laneway-grilles_diy-build_plan.md` | Self-build alternative (thin white-painted timber frame, 12 mm black rod, roll-pinned crossings), written after no fabricator replied. Its section 8 holds the open questions, including corrections still owed to the RFQ |
 | `diagrams/make_diagrams.mjs` | Generates the five SVG figures embedded in the DIY plan |
 | `README.md` | Landing page for a fabricator: what is quoted, links to both spec files, contact line |
 
