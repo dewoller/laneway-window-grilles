@@ -80,6 +80,8 @@ const ROD = 12;
 const XV = [155, 310];                 // verticals, from the wall-side outer face
 const YH = [290, 585, 880];            // horizontals, from the bottom outer face
 const ZH = 14, ZV = 26;                // rod layer centres from the window-side face
+const BLIND = 12;                      // blind hole depth in the free stile; the other holes are through
+const HL = W - TF + BLIND;             // horizontal rod length as drawn (cut 457: 1 mm play, like the verticals)
 const FIX_STILE = [145, 437, 732, 1026];
 const FIX_RAIL = [77, 232, 388];
 const INSERTS = [624, 659, 1080, 1150];
@@ -105,7 +107,7 @@ function elevation() {
   for (const y of YH) {
     b.push(rect(X(T), Y(y + ROD / 2), (W - T - TF) * s, ROD * s, st));
     b.push(rect(X(0), Y(y + ROD / 2), T * s, ROD * s, { stroke: STEEL_EDGE, sw: 0.6, dash: '2 2' }));
-    b.push(rect(X(W - TF), Y(y + ROD / 2), TF * s, ROD * s, { stroke: STEEL_EDGE, sw: 0.6, dash: '2 2' }));
+    b.push(rect(X(W - TF), Y(y + ROD / 2), BLIND * s, ROD * s, { stroke: STEEL_EDGE, sw: 0.6, dash: '2 2' }));
   }
   // verticals (rear layer, nearer the room, drawn over)
   for (const x of XV) {
@@ -180,8 +182,8 @@ function planSection() {
   b.push(rect(X(0), Z(0), T, D, tim));
   b.push(rect(X(W - TF), Z(0), TF, D, tim));
   // horizontal rod, cut lengthwise
-  b.push(rect(X(0), Z(ZH - ROD / 2), W, ROD, { fill: STEEL, stroke: STEEL_EDGE, sw: 0.8 }));
-  b.push(text(X(30), Z(ZH + 3.5), 'horizontal rod 12, through both stiles, cut flush', { size: 8.5, fill: '#fff' }));
+  b.push(rect(X(0), Z(ZH - ROD / 2), HL, ROD, { fill: STEEL, stroke: STEEL_EDGE, sw: 0.8 }));
+  b.push(text(X(30), Z(ZH + 3.5), 'horizontal rod 12, through the wall-side stile, 12 into a blind hole in the free stile', { size: 8.5, fill: '#fff' }));
   // verticals cut
   for (const x of XV) {
     b.push(circle(X(x), Z(ZV), ROD / 2, { fill: '#6c7378', stroke: STEEL_EDGE, sw: 0.8 }));
@@ -339,7 +341,7 @@ function exploded() {
   const st = { fill: STEEL, stroke: STEEL_EDGE, sw: 0.7 };
   const tim = { fill: TIMBER, stroke: TIMBER_EDGE };
   // grid
-  for (const y of YH) b.push(rect(X(0), Y(y + ROD / 2), W * s, ROD * s, st));
+  for (const y of YH) b.push(rect(X(0), Y(y + ROD / 2), HL * s, ROD * s, st));
   for (const x of XV) b.push(rect(X(x - ROD / 2), Y(H), ROD * s, H * s, st));
   for (const x of XV) for (const y of YH) b.push(circle(X(x), Y(y), 2, { fill: ACCENT, stroke: '#fff', sw: 0.6 }));
   // rails, exploded up and down, with their rod holes
@@ -367,7 +369,7 @@ function exploded() {
   b.push(text(X(-off - T / 2), Y(H / 2), 'wall-side stile, 12', { size: 8.5, anchor: 'middle', rotate: -90 }));
   b.push(text(X(W + off + TF / 2) + 1, Y(H / 2), 'free stile, 19', { size: 8.5, anchor: 'middle', rotate: -90 }));
   b.push(text(X(XV[1]) + 24, Y(0) + 16, 'grid pinned at six crossings first, so it is one piece', { size: 9, fill: ACCENT }));
-  b.push(text(X(0), Y(-off) + 26, 'holes shown as circles; every one is a through-hole', { size: 8.5, fill: DIM }));
+  b.push(text(X(0), Y(-off) + 26, 'holes shown as circles; all through except the free stile, whose three are blind, 12 deep', { size: 8.5, fill: DIM }));
 
   return svg(ox + (W + off + TF) * s + 170, oy + (H + 2 * off + 2 * T) * s + 50, 'Exploded view of the dry fit: the pinned rod grid in the middle, rails above and below dropping onto the verticals, stiles left and right sliding onto the horizontals', b.join('\n'));
 }

@@ -14,9 +14,9 @@
 <rect width="100%" height="100%" fill="#fff"/>
 <text x="20" y="16" font-family="Helvetica, Arial, sans-serif" font-size="13" text-anchor="start" fill="#222" font-weight="bold">Dry-fit order: the frame closes around a pinned grid</text>
 <text x="20" y="31" font-family="Helvetica, Arial, sans-serif" font-size="10" text-anchor="start" fill="#555" font-weight="normal">each member engages only its own rods, so the rails drop on first and the stiles slide in sideways</text>
-<rect x="120" y="352.5" width="139.5" height="3.6" fill="#9aa0a6" stroke="#3c4146" stroke-width="0.7"/>
-<rect x="120" y="264" width="139.5" height="3.6" fill="#9aa0a6" stroke="#3c4146" stroke-width="0.7"/>
-<rect x="120" y="175.5" width="139.5" height="3.6" fill="#9aa0a6" stroke="#3c4146" stroke-width="0.7"/>
+<rect x="120" y="352.5" width="137.4" height="3.6" fill="#9aa0a6" stroke="#3c4146" stroke-width="0.7"/>
+<rect x="120" y="264" width="137.4" height="3.6" fill="#9aa0a6" stroke="#3c4146" stroke-width="0.7"/>
+<rect x="120" y="175.5" width="137.4" height="3.6" fill="#9aa0a6" stroke="#3c4146" stroke-width="0.7"/>
 <rect x="164.7" y="90" width="3.6" height="351.3" fill="#9aa0a6" stroke="#3c4146" stroke-width="0.7"/>
 <rect x="211.2" y="90" width="3.6" height="351.3" fill="#9aa0a6" stroke="#3c4146" stroke-width="0.7"/>
 <circle cx="166.5" cy="354.3" r="2" fill="#c8102e" stroke="#fff" stroke-width="0.6"/>
@@ -55,5 +55,5 @@
 <text x="85.2" y="265.65" font-family="Helvetica, Arial, sans-serif" font-size="8.5" text-anchor="middle" fill="#222" font-weight="normal" transform="rotate(-90 85.2 265.65)">wall-side stile, 12</text>
 <text x="296.35" y="265.65" font-family="Helvetica, Arial, sans-serif" font-size="8.5" text-anchor="middle" fill="#222" font-weight="normal" transform="rotate(-90 296.35 265.65)">free stile, 19</text>
 <text x="237" y="457.3" font-family="Helvetica, Arial, sans-serif" font-size="9" text-anchor="start" fill="#c8102e" font-weight="normal">grid pinned at six crossings first, so it is one piece</text>
-<text x="120" y="500.3" font-family="Helvetica, Arial, sans-serif" font-size="8.5" text-anchor="start" fill="#555" font-weight="normal">holes shown as circles; every one is a through-hole</text>
+<text x="120" y="500.3" font-family="Helvetica, Arial, sans-serif" font-size="8.5" text-anchor="start" fill="#555" font-weight="normal">holes shown as circles; all through except the free stile, whose three are blind, 12 deep</text>
 </svg>

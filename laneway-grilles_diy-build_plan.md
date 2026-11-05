@@ -1,6 +1,6 @@
 # Laneway window grilles: DIY build plan
 
-29 Oct 2026, revised 3 Nov 2026. Thin timber frame painted white to match the
+29 Oct 2026, revised 6 Nov 2026. Thin timber frame painted white to match the
 reveal, 12 mm steel rods painted matte black, pinned crossings. Fallback
 to the fabricated version in `laneway-grilles_rfq.pdf`, which eight shops did
 not answer. All dimensions in mm, all positions measured from the frame's outer
@@ -22,7 +22,7 @@ grid. The frame holds the rod ends, carries the opener, and is painted the same
 white enamel as the pine reveal so it reads as part of the window. It carries
 almost no load: a push on the grid goes through the pinned
 lattice into the reveal, and the opener load on the free stile is braced every
-295 mm by the horizontals that pass through it.
+295 mm by the horizontals housed in it.
 
 | Item | Left | Right |
 |------|------|-------|
@@ -39,7 +39,7 @@ lattice into the reveal, and the opener load on the free stile is braced every
 | Frame section | 42 × 12 DAR edge-on, free stile 42 × 19 | 42 × 42 square: chosen first so rods could be housed in deep holes, but the frame carries no load that needs it, and deep holes need a drill press. Steel frame: that is the RFQ, still fine if a shop bites. |
 | Frame timber | Tasmanian oak throughout, painted white to match the reveal | Hardwood oiled: the reveal is white-painted pine, and a bare hardwood frame inside it is a third material that draws the eye to the grille. Pine, painted: matches the reveal's timber and saves about $20, but holds the corner screws and the opener's M5 inserts worse and tears out at the rod holes. Pine rails with a hardwood free stile: two timbers to buy for a $10 saving. |
 | Finish | Rods matte black, frame white enamel to match the reveal | White rods: from inside they are seen against daylight, and white catches glare by day and room light at night, so they stand out against the view. Black reads as thin dark lines the eye skips, like a fly screen. Clear-lacquered steel: shows fingerprints and rust spots at the cut ends and pin holes. |
-| Rod ends | Through every member, cut flush, captive because the grid is pinned | Blind holes in the free stile: need 25 mm of timber, so need the 42 square. |
+| Rod ends | Through the rails and the wall-side stile, cut flush, where the reveal hides them. Blind, 12 deep, in the free stile, so its edge beside the mullion is clean white with no rod ends to see or paint around (6 Nov) | Through the free stile too: three black dots on the one visible edge, and paint to touch up around each. Blind holes were rejected on 29 Oct as needing 25 mm of timber, which assumed a 12 mm stile; the free stile is 19 for the opener inserts, and a 12 mm seat leaves 7 behind it. Deeper than 12: a 12.5 mm twist drill's point is about 4 long, so 14 deep would be within a millimetre of breaking out. |
 | Corners | Rails full width, stiles between, glued and screwed; the screws work in shear | End laps: need thick stock. Angle brackets: at the top corner a bracket on the stile's inner face sits exactly where the opener foot plate bolts on at 1150. |
 | Spot welder | Not used | Fuses 3 to 5 mm crossings, not 12 mm. |
 | Dense mesh (5 mm at 50 pitch) | Not used | Stronger and cheaper deterrent, but looks like a coop on the room side and the opener chain needs a cut-out. |
@@ -100,27 +100,31 @@ carry verticals, so no member has both layers and the holes never overlap.
 inside the 42 depth, the sash is 27 in front, and a push from the glass loads
 the fixing screws sideways, in shear.*
 
-### Rod holes, 12.5 mm, all through
+### Rod holes, 12.5 mm
 
 | Member | Rods | Positions | Hole axis | Depth |
 |--------|------|-----------|-----------|-------|
 | Top rail | Verticals | X = 155, 310 | Y, at Z = 26 | 12 |
 | Bottom rail | Verticals | X = 155, 310 | Y, at Z = 26 | 12 |
 | Wall-side stile | Horizontals | Y = 290, 585, 880 | X, at Z = 14 | 12 |
-| Free stile | Horizontals | Y = 290, 585, 880 | X, at Z = 14 | 19 |
+| Free stile | Horizontals | Y = 290, 585, 880 | X, at Z = 14 | 12, blind, from the opening-side face |
 
-Every hole goes through the thin dimension, so the deepest is 19 mm. A hand
-drill with a bushing guide does all of them. Rod ends in the rails and the
-wall-side stile sit against the reveal once installed. Rod ends in the free stile
-are flush with its outer face, beside the mullion, and cannot move because the
-grid is pinned to the verticals, which are housed in the rails.
+Every hole goes through the thin dimension. The rail and wall-side stile holes
+are through, 12 deep, and their rod ends sit against the reveal once installed.
+The free stile holes are blind: 12 deep into the 19, leaving 7 mm of timber over
+the rod end, so the edge beside the mullion shows no steel. Drill them with a
+brad-point or Forstner bit, whose short point will not break through, against a
+depth stop on the drill press or tape on the bit. A hand drill with a bushing
+guide does the through holes. The horizontals cannot walk out of the blind
+holes because the grid is pinned to the verticals, which are housed in the
+rails.
 
 ### Rods, per grille
 
 | Rod | Qty | Cut length | Runs |
 |-----|-----|------------|------|
 | Vertical | 2 | 1170 (left) / 1177 (right) | Flush with both rail outer faces |
-| Horizontal | 3 | 464 | Flush with both stile outer faces |
+| Horizontal | 3 | 457 | Flush with the wall-side stile outer face, seated 12 into the free stile |
 
 About 3.7 m per grille, 7.4 m total. Three 3 m lengths (two verticals and one horizontal each from two of them, four horizontals from the third), or one 6 m length (four verticals, two horizontals) plus a 2 m
 offcut from a steel merchant, which is cheaper.
@@ -217,14 +221,15 @@ Total roughly $225 to $255.
 |------|-----|------------|
 | Hardened bushing drill guide with a V-groove base (Big Gator V-DrillGuide or similar, 1/2 in bushing) | Every hole: rod holes through the strips, pin holes through the rod | Buy, $60 to $80 |
 | Hand drill, 13 mm chuck | | Have |
-| 12.5 mm bit, reduced shank | Rod holes | Buy |
+| 12.5 mm bit, reduced shank | Through rod holes | Buy |
+| 12.5 mm brad-point or Forstner bit | Blind rod holes in the free stile; the short point stops 7 mm of timber from breaking out | Buy |
 | 4 mm HSS bits | Pin holes | Buy a few |
 | 5 mm bit, countersink | Fixing holes | |
 | Hacksaw or angle grinder with cutting disc | Rods | |
 | Tenon saw, square, tape, marking knife | Timber | |
 | Four sash or F clamps, one pair locking pliers | Dry fit, crossings | |
 | Centre punch, pin punch, hammer | Pin holes and roll pins | |
-| Benchtop drill press | Nothing this design needs. Nicer for the rod holes, not required. | Optional |
+| Benchtop drill press | Nothing this design needs. Nicer for the rod holes, and its depth stop makes the blind holes easy. Run the stiles across the front of the table with the far end supported; the holes are within 28 mm of an edge, so any throat clears. The pin holes at the crossings would need a 155 mm throat, so they stay on the hand drill. | Optional |
 | Spot welder | Nothing on this job | |
 
 ## 6. Build sequence
@@ -243,7 +248,9 @@ mirror image: swap which end is the wall side.
    hole at Y = 290 is 278 from the stile's bottom end.
 4. Gauge a line along each member at its hole Z (14 on stiles, 26 on rails),
    punch the centres, and drill the 12.5 holes through with the guide clamped
-   on. Drill from the outside face so any breakout is on the inside.
+   on. Drill from the outside face so any breakout is on the inside. The free
+   stile is the exception: drill its three holes blind, 12 deep, from the
+   opening-side face, brad-point or Forstner bit, depth stop set.
 5. Drill the fixing holes, 5 mm through, countersunk on the opening side. Drill
    the insert pilots in the free stile.
 
@@ -261,7 +268,9 @@ engages its own rods. Rails first, then stiles.*
 
 7. Lay the frame flat, window-side face down. Push the verticals through the
    bottom rail, then the top rail. Push the horizontals through the wall-side
-   stile, then slide the free stile on over their other ends. Tape the
+   stile and 12 mm out beyond it, offer up the free stile until its blind holes
+   find the rod ends, then push the rods back until they are flush with the
+   wall-side outer face and the free stile sits between the rails. Tape the
    horizontals so they cannot walk until they are pinned.
 8. Clamp the corners and square the frame. Diagonals within 2.
 9. Twist tie wire tight around each crossing so the two rods touch with no gap.
