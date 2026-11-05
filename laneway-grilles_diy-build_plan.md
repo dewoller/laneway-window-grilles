@@ -122,7 +122,7 @@ grid is pinned to the verticals, which are housed in the rails.
 | Vertical | 2 | 1170 (left) / 1177 (right) | Flush with both rail outer faces |
 | Horizontal | 3 | 464 | Flush with both stile outer faces |
 
-About 3.7 m per grille, 7.4 m total. Three 3 m lengths, or one 6 m length plus
+About 3.7 m per grille, 7.4 m total. Three 3 m lengths (two verticals and one horizontal each from two of them, four horizontals from the third), or one 6 m length (four verticals, two horizontals) plus a 2 m
 offcut from a steel merchant, which is cheaper.
 
 ### Crossings, per grille
@@ -198,7 +198,7 @@ Prices are rough, Melbourne, late 2026.
 |------|-----|------|--------|
 | 42 × 12 DAR Tasmanian oak | 2 × 1.8 m | One wall stile and two rails per length | $25 |
 | 42 × 19 DAR Tasmanian oak | 1 × 2.4 m | Both free stiles | $20 |
-| 12 mm round mild steel | 7.4 m | 3 × 3 m hardware lengths, or 6 m + 1.5 m from a merchant | $40 to $70 |
+| 12 mm round mild steel | 7.4 m | 3 × 3 m hardware lengths, or 6 m + 2 m from a merchant | $40 to $70 |
 | Roll pins 4 × 24 | 12, buy 20 | Spring steel | $10 |
 | M5 threaded inserts, screw-in brass, 10 long | 8, buy 10 | 8 mm pilot, check the insert's spec | $15 |
 | 10 g × 75 countersunk timber screws | 20 | Through 12 of frame, 60 into the reveal | $8 |
