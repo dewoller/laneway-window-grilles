@@ -8,7 +8,8 @@ Planning documents for two laneway window grilles (left- and right-hand, mirror 
 
 | File | What it is |
 |------|-----------|
-| `laneway-grilles_rfq.docx` / `.pdf` | One-page request for quotation: welded mild-steel grille, matte black powder coat or primed, outside size +0/−2, summary table plus the elevation drawing (an embedded PNG). Cut down from a 4-page spec on 18 Nov; the long version, with the stainless option and finish questions, is in git history before that date |
+| `laneway-grilles_rfq.docx` / `.pdf` | Request for quotation, 5 pages: a summary table, then six numbered drawings (bar sizes, in the window, dimensions, from above, 3D corner, side views). Welded mild steel, matte black powder coat or primed, outside size +0/−2. Built by `rfq/make_rfq.cjs`. The 19 Oct 4-page text spec, with the stainless option and finish questions, is in git history |
+| `diagrams/make_rfq_diagrams.mjs` | Generates the RFQ's `diagrams/rfq-*.svg` figures. The 50 × 5 free stile is orange in every one |
 | `laneway-grilles_diy-build_plan.md` | Self-build alternative (thin white-painted timber frame, 12 mm black rod, roll-pinned crossings), written when no fabricator seemed to reply (the emails had in fact never left the Outbox). Its section 8 holds the open questions, including corrections still owed to the RFQ |
 | `diagrams/make_diagrams.mjs` | Generates the five SVG figures embedded in the DIY plan |
 | `README.md` | Landing page for a fabricator: what is quoted, links to both spec files, contact line |
@@ -17,9 +18,18 @@ Planning documents for two laneway window grilles (left- and right-hand, mirror 
 
 `origin` is `github.com/dewoller/laneway-window-grilles`, and fabricators are pointed at it. Every push publishes, so confirm before pushing (see `~/.claude/rules/git.md`, "It is public").
 
-## RFQ: two binaries, no source
+## RFQ is generated
 
-No generator script or source markdown exists for the RFQ. Edit the `.docx`, then re-export the `.pdf`; the two must stay in sync. Use the `anthropic-skills:docx` and `anthropic-skills:pdf` skills to read or change them.
+```bash
+node diagrams/make_rfq_diagrams.mjs                 # rewrites diagrams/rfq-*.svg
+(cd rfq && npmi ci && node make_rfq.cjs)            # rewrites laneway-grilles_rfq.docx
+soffice --headless --convert-to pdf laneway-grilles_rfq.docx   # then the PDF
+```
+
+- Never hand-edit the `.docx` or `.pdf`; change the table text in `rfq/make_rfq.cjs` or a figure's geometry in `make_rfq_diagrams.mjs`, and rebuild both.
+- `diagrams/rfq-3_elevation.png` (the dimensioned elevation) has no source; it was lifted from the 19 Oct docx with the "1 px = 2 mm" note cut out. Change it only as a raster edit.
+- The figures are numbered in page order, and the table refers to them by number. Renumber both together.
+- One reader on 18 Nov could not tell which bar was the 50: keep the orange-means-50 convention in any new figure.
 
 ## Figures are generated
 

@@ -1,0 +1,8 @@
+{
+  "name": "laneway-grilles-rfq",
+  "private": true,
+  "description": "Builds laneway-grilles_rfq.docx from the figures in ../diagrams",
+  "dependencies": {
+    "docx": "9.15.4"
+  }
+}
