@@ -318,8 +318,8 @@ engages its own rods. Rails first, then stiles.*
 
 ## 8. Open questions
 
-- [ ] Send the RFQ to the six shops whose emails never left the Outbox, or
-      ring them. Tait Stainless received it on 18 Nov.
+- [x] Send the RFQ to the six shops whose emails never left the Outbox. Sent
+      from Gmail on 18 Nov with the one-page RFQ; Tait got the old one that day.
 - [ ] Ring three of the fabricators with the short pitch before buying
       timber. "Two small welded grilles, flat bar and 12 mm rod, mild steel, you
       pick the finish, I have a drawing." If one bites, this plan is the backup.
