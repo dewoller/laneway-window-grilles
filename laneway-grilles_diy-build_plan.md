@@ -2,12 +2,13 @@
 
 29 Oct 2026, revised 6 Nov 2026. Thin timber frame painted white to match the
 reveal, 12 mm steel rods painted matte black, pinned crossings. Fallback
-to the fabricated version in `laneway-grilles_rfq.pdf`, which eight shops did
-not answer. All dimensions in mm, all positions measured from the frame's outer
-faces exactly as in the RFQ, so either version drops into the same reveal.
+to the fabricated version in `laneway-grilles_rfq.pdf`. All dimensions in mm,
+all positions measured from the frame's outer faces exactly as in the RFQ, so
+either version drops into the same reveal.
 
-The RFQ says "plaster reveal". The reveal is solid timber. Correct the docx and
-PDF before sending the RFQ out again.
+The silence that prompted this plan was not the shops ignoring the RFQ. The
+seven emails of 19 Oct never left the Apple Mail Outbox. One (Tait Stainless)
+went out on 18 Nov; the other six are unsent (18 Nov).
 
 ## 1. What is being built
 
@@ -317,7 +318,9 @@ engages its own rods. Rails first, then stiles.*
 
 ## 8. Open questions
 
-- [ ] Ring three of the eight fabricators with the short pitch before buying
+- [ ] Send the RFQ to the six shops whose emails never left the Outbox, or
+      ring them. Tait Stainless received it on 18 Nov.
+- [ ] Ring three of the fabricators with the short pitch before buying
       timber. "Two small welded grilles, flat bar and 12 mm rod, mild steel, you
       pick the finish, I have a drawing." If one bites, this plan is the backup.
 - [ ] How much room-side depth does the reveal have before the architrave? The
@@ -327,4 +330,4 @@ engages its own rods. Rails first, then stiles.*
       in the RFQ, whose rail was 5 mm in-plane. Check the foot plate fits.
 - [ ] Is 42 × 12 Tasmanian oak in stock, or is it 42 × 19 throughout.
 - [x] Rod finish: black or clear. Black, frame white (3 Nov, see section 2).
-- [ ] Fix "plaster reveal" in the RFQ docx and PDF.
+- [x] Fix "plaster reveal" in the RFQ docx and PDF. Now "timber reveal" (18 Nov).
