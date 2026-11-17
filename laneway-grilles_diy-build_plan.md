@@ -90,7 +90,7 @@ opening.
 | Front (toward glass) | Horizontals | 14 | 8 / 22 |
 | Rear | Verticals | 26 | 20 / 10 |
 
-Centres 12 apart, so the rods touch at every crossing. The RFQ had 6.5 and 18.5
+Centres 12 apart, so the rods touch at every crossing. The 19 Oct RFQ had 6.5 and 18.5
 because its rods were welded to the face of a 5 mm bar; here they pass through
 holes and need timber either side. Stiles only carry horizontals and rails only
 carry verticals, so no member has both layers and the holes never overlap.

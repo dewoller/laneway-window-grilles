@@ -1,7 +1,7 @@
 # Laneway window grilles — request for quotation
 
-Fabrication spec for two welded window grilles (left- and right-hand), quoted in
-304/316 stainless (Option A) or powder-coated mild steel (Option B).
+One-page quote request for two welded mild-steel window grilles (left- and
+right-hand, mirror images), matte black powder coat.
 
 - Spec (PDF): [laneway-grilles_rfq.pdf](laneway-grilles_rfq.pdf)
 - Spec (Word): [laneway-grilles_rfq.docx](laneway-grilles_rfq.docx)

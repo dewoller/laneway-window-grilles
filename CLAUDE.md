@@ -8,8 +8,8 @@ Planning documents for two laneway window grilles (left- and right-hand, mirror 
 
 | File | What it is |
 |------|-----------|
-| `laneway-grilles_rfq.docx` / `.pdf` | Request for quotation sent to fabricators: welded grille, Option A 304/316 stainless or Option B powder-coated mild steel |
-| `laneway-grilles_diy-build_plan.md` | Self-build alternative (thin white-painted timber frame, 12 mm black rod, roll-pinned crossings), written after no fabricator replied. Its section 8 holds the open questions, including corrections still owed to the RFQ |
+| `laneway-grilles_rfq.docx` / `.pdf` | One-page request for quotation: welded mild-steel grille, matte black powder coat, summary table plus the elevation drawing (an embedded PNG). Cut down from a 4-page spec on 18 Nov; the long version, with the stainless option and finish questions, is in git history before that date |
+| `laneway-grilles_diy-build_plan.md` | Self-build alternative (thin white-painted timber frame, 12 mm black rod, roll-pinned crossings), written when no fabricator seemed to reply (the emails had in fact never left the Outbox). Its section 8 holds the open questions, including corrections still owed to the RFQ |
 | `diagrams/make_diagrams.mjs` | Generates the five SVG figures embedded in the DIY plan |
 | `README.md` | Landing page for a fabricator: what is quoted, links to both spec files, contact line |
 
